@@ -6,7 +6,6 @@ SocketChat.xyz allows users to create accounts, manage profiles, and send live c
 
 
 
-<img src="/client/src/img/screenshot.jpg" width="100%" >
 
 The main challenges I ran into with this project ended up being:
 
