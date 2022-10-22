@@ -1,10 +1,10 @@
 <div align="center"> <h1>socketchat</h1> </div>
 
-### A chat application built in MERN stack with socket.io! [live demo here](http://socketchat.xyz/)
+### A chat application built in MERN stack with socket.io!
 
 SocketChat.xyz allows users to create accounts, manage profiles, and send live chat messages to multiple public chat rooms or to other individual users privately. This app is built with mongodb, node/express, react, socketio. It uses a bcrypt and json web token based authentication flow and a state management flow based on react's context and hooks.
 
-This project was inspired by challenges I ran into while building http://mernsocialmedia.xyz, particularly with integrating socketio chat features and storing/serving images. This project allowed me to build fluency in those areas and explore react's context.
+
 
 <img src="/client/src/img/screenshot.jpg" width="100%" >
 
